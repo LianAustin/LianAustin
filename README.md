@@ -1,4 +1,4 @@
-Student at SACHS 2025
+SACHS 2025
 
 <!---
 LianAustin/LianAustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
