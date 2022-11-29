@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lianaustin&label=Profile%20views&color=0e75b6&style=flat-square" alt="lianaustin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lianaustin" alt="lianaustin" /></a> </p>
-
+![Clock](https://tomchen.github.io/animated-svg-clock/clock.svg "Clock")
 - 🔭 I’m currently working on [FTC 2022-23 Powerplay](https://github.com/sta-titansrobotics/2022-23-powerplay)
 
 - 🌱 I’m currently learning **Python**
