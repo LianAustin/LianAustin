@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Lian</h1>
-<h3 align="center">A highschooler who programs, how unique</h3>
+<h3 align="center">A highschooler who loves programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lianaustin&label=Profile%20views&color=0e75b6&style=flat-square" alt="lianaustin" /> </p>
 
