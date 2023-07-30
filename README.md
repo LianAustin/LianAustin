@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **austin.lian25@ycdsbk12.ca**
+- 📫 How to reach me **austin.lian25@ycdsbk12.ca** or **lianaustin0@gmail.com**
 
 - ⚡ Fun fact **I enjoy swimming.**
 
