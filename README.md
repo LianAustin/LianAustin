@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FTC 2022-23 Powerplay](https://github.com/sta-titansrobotics/2022-23-powerplay)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++ and computer vision**
 
 - 📫 How to reach me **austin.lian25@ycdsbk12.ca** or **lianaustin0@gmail.com**
 
