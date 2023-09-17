@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Lian</h1>
-<h3 align="center">A highschooler who loves programming</h3>
+<h3 align="center">A highschooler who enjoys programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lianaustin&label=Profile%20views&color=0e75b6&style=flat-square" alt="lianaustin" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **austin.lian25@ycdsbk12.ca** or **lianaustin0@gmail.com**
 
-- ⚡ Fun fact **I enjoy swimming.**
+- ⚡ Fun fact: **I enjoy swimming. I am a competitive swimmer (basically retired from competitive swimming though), lifeguard, and swim instructor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
