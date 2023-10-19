@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lianaustin&label=Profile%20views&color=0e75b6&style=flat-square" alt="lianaustin" /> </p>
 
-- 🔭 I’m currently working on [FTC 2022-23 Powerplay](https://github.com/sta-titansrobotics/2022-23-powerplay)
+- 🔭 I’m currently working on [FTC 2023-24 Centerstage](https://github.com/sta-titansrobotics/19446-CENTERSTAGE)
 
 - 🌱 I’m currently learning **C++ and computer vision**
 
