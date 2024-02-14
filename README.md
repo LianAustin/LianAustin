@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **austin.lian25@ycdsbk12.ca** or **lianaustin0@gmail.com**
 
-- ⚡ Fun fact: **I enjoy swimming. I am a competitive swimmer (basically retired from competitive swimming though), lifeguard, and swim instructor.**
+- ⚡ Fun fact: **I enjoy swimming. I am a competitive swimmer, lifeguard, and swim instructor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
