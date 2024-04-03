@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ and computer vision**
 
-- 📫 How to reach me **austin.lian25@ycdsbk12.ca** or **lianaustin0@gmail.com**
+- 📫 How to reach me **lianaustin0@gmail.com**
 
 - ⚡ Fun fact: **I enjoy swimming. I am a competitive swimmer, lifeguard, and swim instructor.**
 
